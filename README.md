@@ -1,15 +1,9 @@
-# Rincewind
+# this is a demo of react-query + mirage.js
 
-this is a boilerplate for
+instructions
 
-- React
-- TailwindCSS
-- TypeScript
 
-You can scaffold this with `npx rincewind`.
-
-## Demo at https://rincewind.netlify.com/
-
-You can see logs at https://app.netlify.com/sites/rincewind/deploys
-
-[![https://www.netlify.com/img/deploy/button.svg](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sw-yx/rincewind)
+```bash
+yarn
+yarn start
+```
