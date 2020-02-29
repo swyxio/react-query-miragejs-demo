@@ -5,11 +5,11 @@
 @tailwind utilities;
 
 /* Strong opionion on position:relative */
-*,
+/* *,
 *::after,
 *::before {
   position: relative;
-}
+} */
 /*
 *
 * Other CSS Resets
