@@ -21,11 +21,17 @@ export default function App() {
           </NavLink>
           <NavLink
             to='/todo'
-            className='pb-1'
+            className='pb-1 mr-4'
             activeClassName='border-b-2 border-gray-700'
           >
             Todo Example
           </NavLink>
+          <a
+            className='pb-1'
+            href='https://github.com/sw-yx/react-query-miragejs-demo'
+          >
+            Source
+          </a>
         </header>
 
         <Routes>
